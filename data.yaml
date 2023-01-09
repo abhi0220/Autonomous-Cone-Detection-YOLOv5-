@@ -1,0 +1,6 @@
+train: ..//Users/abhi/Documents/FEB_recruitment_project/Perception/cones.v4-addmoredata.yolov5pytorch/dataset/images/train
+val: ..
+val: ..//Users/abhi/Documents/FEB_recruitment_project/Perception/cones.v4-addmoredata.yolov5pytorch/dataset/images/valid
+
+nc: 3
+names: ['blue_cone', 'orange_cone', 'yellow_cone']
